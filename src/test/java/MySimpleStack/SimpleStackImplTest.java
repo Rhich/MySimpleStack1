@@ -31,7 +31,7 @@ private SimpleStackImpl simpleStack;
 
     @Test
     public void testPush() throws Exception {
-
+        /*commentaire pour exigence2*/
     }
 
     @Test
